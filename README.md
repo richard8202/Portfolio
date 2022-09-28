@@ -3,7 +3,7 @@
   * With the help of Emlid’s Navio2, an autopilot HAT for Raspberry Pi, the drones are able to send real-time sensor data that are on-board to the Flink cluster to allow for monitoring the status of each drone.
   * Each drone is assigned a task through Apache Flink, submitted by the master node. This allows the job to be executed in parallel rather than sequential, reducing latency. 
  
-<img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/192693666-9bcca948-cd58-495e-bf1a-ec0cb52ac52c.png"><img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/192693289-90ee1c71-c8a4-4673-8224-afafbcc0d39d.png"><img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/192694149-cdd77b5c-75be-4f38-a587-504223235c3a.png">
+<img width="270" alt="270" src="https://user-images.githubusercontent.com/89572705/192693666-9bcca948-cd58-495e-bf1a-ec0cb52ac52c.png"><img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/192693289-90ee1c71-c8a4-4673-8224-afafbcc0d39d.png"><img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/192694149-cdd77b5c-75be-4f38-a587-504223235c3a.png">
 
 
 # Modeling Energy Consumption and Price with Different Housing Configurations
