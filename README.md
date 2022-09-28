@@ -10,8 +10,8 @@
   * For this particular experiment, multiple boxes were constructed to simulate the walls of a home. In this case a cubic wooden frame was constructed with an outer surface volume of around 7.6 𝑓𝑡<sup>3<sup>
   
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/89572705/192069395-2206cccd-6d3a-48dd-8a8c-12162024af61.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/89572705/192069424-73dc9f49-02c4-4ebd-82e7-f14d905238ae.png">
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/89572705/192068756-21469612-31d0-49a4-beb7-2f5e68fc56b8.png">
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/89572705/192069395-2206cccd-6d3a-48dd-8a8c-12162024af61.png"><img width="290" alt="image" src="https://user-images.githubusercontent.com/89572705/192069424-73dc9f49-02c4-4ebd-82e7-f14d905238ae.png">
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/89572705/192068756-21469612-31d0-49a4-beb7-2f5e68fc56b8.png">
 
 
 # Interpolating and Modeling Data of 2013 Honda Accord Sport
