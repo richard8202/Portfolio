@@ -16,11 +16,11 @@
 # Modeling and Interpolating Data of 2013 Honda Accord Sport
  * The objective of this project was to obtain data from a 2013 Honda Accord Sport and use mathematical equations inorder to create models and interpolations.
  * The Data pulled from the Honda Accord allowed us to interpolation the car's MPG,RPM,distance and speed.  
- * With this car we had to run 3 trials with the intent to start from rest and accelerate to 35 MPH then decelerate to 0 mph. To record our data we used an OBDII (ON BOARD DIAGNOSTICS) reader.
+ * With the car, it ran 3 trials with the intent to start from rest and accelerate to 35 MPH then decelerate to 0 mph. To record our data we used an OBDII (ON BOARD DIAGNOSTICS) reader.
  <img width="280" alt="image" src="https://user-images.githubusercontent.com/89572705/192748350-9582955d-1a55-4baa-a717-5740ff4a6d3c.png">
  <img width="280" alt="image" src="https://user-images.githubusercontent.com/89572705/192750024-7110c17a-c8b7-4d97-a879-1c74920c10f5.png">
  <img width="280" alt="image" src="https://user-images.githubusercontent.com/89572705/192750195-accec658-7635-45e3-8e45-1f5b8520ee48.png">
 
 # Facial Recognition of Intel Neuarl Stick Benchmark
-
+* A study and implementation of Intel’s Movidius Neural Compute Stick 2 with Raspberry Pi 4 and Raspberry 3. The two computers run facial detection software using the neural compute stick and compare the execution time, accuracy,and power consumed.
 
