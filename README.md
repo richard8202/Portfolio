@@ -25,7 +25,8 @@
 * Intel then released the Intel Movidius Neural Compute Stick (NCS) for learning AI programming. It has been used on millions of smart security cameras, gesture-controlled drones,industrial machine vision equipment, and more. In 2018, the Intel Movidius Neural Compute Stick 2 (NCS) with moresupports comes out; with computer vision and AI to IoT devices.
  * From the results of the execution time and speed tests, it is seen that Raspberry Pi 4 is more adept in these areas. Comparing the outputs of these two computers also shows that the Raspberry Pi 4 yields more successful facial detection.
  
-<img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/193000312-e6fe422f-0b0e-468a-aac6-d98e9d31773d.png"><img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/193000895-ec7240bd-9510-403e-96b6-fe03ffc70ea1.png"><img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/193001454-5e2083f1-eac4-4d34-9862-3ed3c221770d.png">
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/193000312-e6fe422f-0b0e-468a-aac6-d98e9d31773d.png"><img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/193003704-67fe00a0-30d8-414c-bbf3-203b3709d36b.png"><img width="270" alt="image" src="https://user-images.githubusercontent.com/89572705/193001454-5e2083f1-eac4-4d34-9862-3ed3c221770d.png">
+
 
 
 
